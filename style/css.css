@@ -388,6 +388,7 @@ footer ul li a {
 footer ul li a:hover {
   font-weight: bold;
   color:white !important;
+<<<<<<< HEAD
 }
 
 .ayuda {
@@ -400,6 +401,8 @@ footer ul li a:hover {
   height: 30px;
   padding: 5px;
   margin-bottom: 10px;
+=======
+>>>>>>> 43d7b2863917096bad77dc4269d84762fa4fff60
 }
 
 /* COOKIES */
